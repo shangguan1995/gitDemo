@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     list-style: none;
     margin: 0;
@@ -6,4 +7,9 @@
 div{
     color: red;
     font-size: 20px;
+=======
+input{
+    width: 100px;
+    height: 100px;
+>>>>>>> dev
 }
